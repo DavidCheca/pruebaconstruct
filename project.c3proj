@@ -85,7 +85,8 @@
 			"EntradaDeTextoCPU_cooler",
 			"EntradaDeTextoCPU",
 			"EntradaDeTextoGPU",
-			"FondoEnMosaico"
+			"FondoEnMosaico",
+			"Sprite"
 		],
 		"subfolders": []
 	},
